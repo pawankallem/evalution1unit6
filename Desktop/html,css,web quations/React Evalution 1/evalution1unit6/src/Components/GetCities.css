@@ -1,0 +1,45 @@
+
+
+.marginForTable{
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.tableDetails{
+    margin: 20px;
+    border: 2px solid red;
+    text-align: center;
+    padding: 10px;
+    width: 90%;
+}
+
+.headDetails{
+    /* padding: 5px; */
+}
+
+
+.displayData{
+    /* text-align: center; */
+}
+
+.inputFlexColom{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    gap: 10px;
+    margin: auto;
+}
+
+.navCss{
+    display: flex; 
+    justify-content: space-around;
+    margin: 30px 10px;
+}
+
+.navCss>a{
+    text-decoration: none;
+    border: 1px solid;
+    padding: 5px;
+    background-color: green;
+    color: white;
+}

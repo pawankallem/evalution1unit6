@@ -1,0 +1,44 @@
+{
+  "country": [
+    {
+      "id": "40d74f64-f3e2-4066-86cc-27128ab3c9a7",
+      "country": "america"
+    },
+    {
+      "id": "5a874db3-1f5c-4f89-a96e-000f93d55d10",
+      "country": "india"
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "country": "india",
+      "city": "delhi",
+      "population": 19000000
+    },
+    {
+      "id": 2,
+      "country": "srilanka",
+      "city": "colombo",
+      "population": 5600000
+    },
+    {
+      "id": 3,
+      "country": "usa",
+      "city": "chicago",
+      "population": 29200000
+    },
+    {
+      "id": "077aa525-02e9-4d04-9e5c-3b853b16875e",
+      "city": "hyd",
+      "population": "889898",
+      "country": "india"
+    },
+    {
+      "id": "0e2964ef-df3b-4212-8ed4-6a153fd59524",
+      "city": "hgf",
+      "population": "76",
+      "country": "fsd"
+    }
+  ]
+}
